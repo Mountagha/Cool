@@ -1,0 +1,1 @@
+Cool is a small language designed for use in an undergraduate compiler course project at Standford. This repo will reimplement Cool from scratch with all tools hand coded from the lexer throughout the codegen. Even planning on creating a mips emulator on which it will run or use LLVM. [sky will be the limit]
